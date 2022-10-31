@@ -15,3 +15,9 @@ The cosine similarity is advantageous because even if the two similar documents 
 chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
 ![70401457-a7530680-1a55-11ea-9158-97d4e8515ca4](https://user-images.githubusercontent.com/68815179/199078322-f405f453-52cd-409d-8a35-b59224a56e9e.png)
 
+- Now we are going to fetch the api to get poster of that picture.
+
+- ![image](https://user-images.githubusercontent.com/68815179/199079501-6c1c4579-995f-4cc3-a086-f7de03772394.png)
+- ![image](https://user-images.githubusercontent.com/68815179/199079657-d68f46e7-350f-4f71-a989-9770cc2c5e76.png)
+- ![image](https://user-images.githubusercontent.com/68815179/199079726-43a84890-ef77-4025-a2d1-aab86ba29132.png)
+
