@@ -1,6 +1,6 @@
 # Movie-Recommendation-System-
 
-A content-based recommender system that recommends movies similar to that kind of genre/movie.
+A content-based recommender system that recommends movies similar to that kind of genre/movie.<br>
 Link to the dataset:-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Overview
